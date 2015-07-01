@@ -1,0 +1,6 @@
+C:\Users\DişiAslan\Documents\My Web Sites\dapperdeneme\dapperdeneme\bin\Debug\dapperdeneme.exe.config
+C:\Users\DişiAslan\Documents\My Web Sites\dapperdeneme\dapperdeneme\bin\Debug\dapperdeneme.exe
+C:\Users\DişiAslan\Documents\My Web Sites\dapperdeneme\dapperdeneme\bin\Debug\dapperdeneme.pdb
+C:\Users\DişiAslan\Documents\My Web Sites\dapperdeneme\dapperdeneme\obj\Debug\dapperdeneme.csprojResolveAssemblyReference.cache
+C:\Users\DişiAslan\Documents\My Web Sites\dapperdeneme\dapperdeneme\obj\Debug\dapperdeneme.exe
+C:\Users\DişiAslan\Documents\My Web Sites\dapperdeneme\dapperdeneme\obj\Debug\dapperdeneme.pdb
